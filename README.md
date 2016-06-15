@@ -3,7 +3,7 @@ A small script to reformat JavaDoc on UW-Madison CS course website into directly
 # Usage
 Python 2.7 is required to run this script.
 
-<pre><code>python [script] [address of javadoc]
+<pre><code>python [script path] [javadoc address]
 </code></pre>
 
 The script will generate a .java file under the same directory, converted from the website.
