@@ -187,7 +187,7 @@ def main():
 
 		pos = html.find(' Detail</h3>', pos + 1)
 
-	url_file.write('}')
+	url_file.write('}\n')
 	url_file.close()
 
 
